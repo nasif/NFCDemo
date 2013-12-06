@@ -1,4 +1,4 @@
-package com.example.nfcdemo.activty;
+package com.example.nfcdemo.activity;
 
 import android.app.Activity;
 
